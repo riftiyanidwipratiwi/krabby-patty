@@ -1,0 +1,5 @@
+print("bahan-bahan")
+print("roti")
+print("tomat")
+print("selada")
+print("daging")
