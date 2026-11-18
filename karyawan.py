@@ -1,0 +1,5 @@
+print("karyawan")
+print("Spongebob")
+print("Squidward")
+print("petrik")
+print("gery")
